@@ -1,0 +1,9 @@
+{
+    "MONDAY"    :   {"teacher" : "", "lesson" : ""},
+    "TUESDAY"   :   {"teacher" : "", "lesson" : ""},
+    "WEDNESDAY" :   {"teacher" : "Enrique_Cacicedo", "lesson" : "4IQT"},
+    "THURSDAY"  :   {"teacher" : "Clinton_Osemwengie", "lesson" : "4ECO"},
+    "FRIDAY"    :   {"teacher" : "Nahla_Betelmal", "lesson" : "4FMA"},
+    "SATURDAY"  :   {"teacher" : "", "lesson" : ""},
+    "SUNDAY"    :   {"teacher" : "", "lesson" : ""}
+}
